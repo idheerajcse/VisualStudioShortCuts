@@ -1,0 +1,74 @@
+Visual Studio Shortcut Keys:
+
+1.General Shortcuts
+SNO	SHORTCUTKEY	DESCRIPTION
+1	Ctrl+s	Save Current File
+2	Ctrl+Shift+s	Save All FIles
+3	Ctrl+Shift+N	Create New Document
+4	Ctrl+O	Open Saved File
+5	Ctrl+Shift+O	Open Saved Project
+6	Ctrl+Shift+A	Add New Item To Current Project
+7	Ctrl+P	Print Current Document
+8	Alt+Shift+Enter	Toggle Full Screen Mode
+9	Ctrl+F4	Close Current Tab
+10	Ctrl+tab	Switch Between Current Tabs
+11	Ctrl+Shift+>	Increases Font Size
+12	Ctrl+Shift+<	Decrease Font Size
+13	Esc	Close Dialog
+2.Find and Replace
+SNO	SHORTCUTKEY	DESCRIPTION
+1	Ctrl+F	Find and replace dialog box
+2	Alt+F12	Find Symbols
+3	Ctrl+Shift+F	Find in Files
+4	F3	Find Next
+5	Shift+F3	Find Previous
+6	Ctrl+H	Replace DialogBox
+7	Shift+F12 or Ctrl+K,R	Find all references for selected symbol
+8	Ctrl+G	Go To Line Number
+9	Ctrl+,	Display Navigate-To dialog box
+10	Ctrl+]	Go to matching brace in Current source file
+11	Shift+Ctrl+Arrow down	Jump to next occurrence of highlighted symbol
+12	Shift+Ctrl+Arrow up	Jump to previous occurrence of highlighted symbol
+3.Code Editor Window
+SNO	SHORTCUTKEY	DESCRIPTION
+1	Ctrl+C	Copy Selected Text
+2	Ctrl+X	Cut Selected Text
+3	Ctrl+P	Paste Cut/Copied Text
+4	Ctrl+Z	Undo
+5	Ctrl+Y	Redo
+6	Shift+Arrow Keys	Extend selection one character/one line
+7	Ctrl+Shift+End	Extend selection to end
+8	Ctrl+Shift+Home	Extend selection to beginning of document
+9	Ctrl+Shift+]	Extend selection to next brace
+10	Shift+End	Extend selection to end of Current Line
+11	Shift+Home	Extend selection to Starting of Current Line
+12	Shift+Page Down	Extends selection down one page
+13	Shift+Page Up	Extends selection Up to one page
+14	Ctrl+Shift+Page Down	Extend selection to Ending of Current Display Area
+15	Ctrl+Shift+Page Up	Extend selection to Starting of Current Display Area
+16	Ctrl+A	Select All
+17	F7	Switch To Code window from Designer Window
+18	Shift+F7	Switch To Designer window from Code Window
+19	Esc	Clear Selection
+4.Debugging
+SNO	SHORTCUTKEY	DESCRIPTION
+1	F6 or Ctrl+shift+b	Build solution
+2	Ctrl+Alt+F7	Rebuild solution
+3	Ctrl+Break	Cancel build process
+4	Ctrl+\+E	Show error list
+5	F9	Toggle Breakpoint
+6	Ctrl+B	Insert new function Breakpoint
+7	F5	Start debugging
+8	F11	Debug / step into
+9	F10	Debug / step over
+10	Shift+F11	Debug / step out
+11	Ctrl+F10	Debug / run to cursor
+12	Ctrl+Alt+Q	Show Quickwatch window
+13	Ctrl+Shift+F10	Set current statement to be the next executed
+14	Alt+*	(on numeric keyboard) Show next statement
+15	Ctrl+Alt+E	Show Exception dialog box
+16	Ctrl+F11	Toggle between Assembly and user code view
+17	Shift+F5	Stop Debugging
+18	Ctrl+F5	Bypass debugger
+19	Ctrl+Alt+P	Show attach to process window
+20	Ctrl+Alt+break	Break all executing threads
